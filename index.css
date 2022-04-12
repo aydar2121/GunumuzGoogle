@@ -1,0 +1,182 @@
+.Sağust{
+    margin: 0px 2px 0px 1400px;
+}
+
+
+.gmail{
+    text-decoration:none;
+    color: black;
+
+}
+
+.Images{
+
+    text-decoration:none;
+    color: black;
+    margin: 0px 0px 0px 20px;
+
+}
+
+
+.up{
+
+    background: -webkit-linear-gradient(top,#4387fd,#4683ea);
+    margin: 0px 0px 0px 20px;
+    color: white;
+    height: 40px;
+    width: 70px;
+    border-radius: 5px;
+}
+
+
+.İMG{
+
+    color: #5f6368;
+    width: 30px;
+    height: 20px;
+    margin: 15px 0px 0px 22.1px;
+}
+
+.w{
+    font-size: 19px;
+    margin: 30px 0px 0px 20px;
+  
+   
+    
+}
+
+.About{
+    text-decoration:none;
+   color: black;
+   
+
+}
+
+.store{
+
+    text-decoration:none;
+    color: black;
+    margin: 0px 0px 0px 20px;
+
+   
+    
+}
+
+.divsearch {
+    margin: 0px 0px 0px 500px;
+    width: 750px;
+    height: 59px;
+    border-radius: 60px;
+    -webkit-box-shadow: 0px 0px 12px -4px rgba(0,0,0,0.54);
+-moz-box-shadow: 0px 0px 12px -4px rgba(0,0,0,0.54);
+box-shadow: 0px 0px 12px -4px rgba(0,0,0,0.54);
+}
+
+
+.search {
+    width: 600px;
+    height: 2px;
+    border: none;
+    outline: none;
+    
+
+}
+
+.searchmic {
+    
+    margin: 3px 10px 65px 50px;
+    padding-bottom: 5px;
+    height: 30px;
+    width: 30px;
+    background-size: 50px;
+    vertical-align: middle;
+}
+
+
+.searchsvg {
+   
+   width: 20px ;
+    margin: 20px 0px 30px 14px;
+    
+}
+  
+
+
+
+.imgs{
+    width: 330px;
+    height: 120px;
+    margin: -50px 0px 20px 670px;
+}
+.Üst1{
+
+    margin: -38px 0px 200px 0px;
+    
+    
+}
+
+.btn{
+
+    width: 180px;
+    height: 40px;
+    font-size: 16.5px;
+    padding-left: 1px;
+    padding-right: 1px;
+    margin: 0px 0px 80px 180px;
+    border-radius: 5px;
+    border: none;
+   
+}
+.btn1{
+    width: 180px;
+    height: 40px;
+    font-size: 16.5px;
+    padding-left: 2px;
+    padding-right: 4px;
+    margin: 10px 0px 0px 40px;
+    border-radius: 5px;
+    border: none;
+}
+.footer{
+    background: #f2f2f2;
+    min-width: 980px;
+    border-top: 1px solid #e4e4e4;
+    color: #222;
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    right: 0;
+    font-size: 14px;
+    line-height: 40px;
+    font-size: 10pt;
+}
+.lside{
+    display: inline;
+    float: left;
+}
+.rside{
+    display: inline;
+    float: right;
+    margin-right: 30px;
+}
+.lside>a{
+    color: #5f6368;
+    text-decoration: none;
+    white-space: nowrap;
+    padding-left: 27px;
+    margin: 0 !important;
+    cursor: pointer;
+    font-size: 14px;
+}
+.rside>a{
+    color: #5f6368;
+    text-decoration: none;
+    white-space: nowrap;
+    padding-left: 27px;
+    margin: 0 !important;
+    cursor: pointer;
+    font-size: 14px;
+}
+.footer a:hover{
+    text-decoration: underline;
+}
